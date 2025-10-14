@@ -5,10 +5,10 @@ Note: its recommended to use web version on windows/linux desktop, with google c
 
 - Prompts Tips and Tricks
 
-- Personalization -> ChatGPT personality
+- Personalization --> ChatGPT personality
 
-- Personalization -> Custom instructions
+- Personalization --> Custom instructions
 
-- Personalization -> About You
+- Personalization --> About You
 
-- Personalization -> Memory
+- Personalization --> Memory
