@@ -9,9 +9,13 @@ Free-and-open-source guides for ChatGPT, so you don't have to paid for tips and 
 - Prompts Tips and Tricks
 
 - Personalization --> ChatGPT personality
+Default is preferred, since we can set-up more precise and specific persoanlity with Custom instructions and Memory
 
 - Personalization --> Custom instructions
+Here you can build layer-1 (in broad terms, not specific) for AIs personality (like chatty, gen-z, robotic...), Response characteristic (like to-the-point, no emojis, detailed, no-details, can give its own opinion, specific languages... )
 
 - Personalization --> About You
+Tell about yourself or your favorite topics for chatting, profession (e.g writer, designer, students...) or your hobby (fishing, programming, cooking...) so AIs can understand the specific needs you want
 
 - Personalization --> Memory
+Here you can build layer-2 (specific and detailed terms) for AI personality and Response characteristic
