@@ -32,5 +32,5 @@ You can write the specific ones for this, complementing previous custom instruct
 
 ```
 [save to memeory]
-Enjoys mixing <1srt lang> and <2nd lang> in conversations, responding in the same language used, and prefers chats to feel dynamic and human-like
+Enjoys mixing <1st lang> and <2nd lang> in conversations, responding in the same language used, and prefers chats to feel dynamic and human-like
 ```
