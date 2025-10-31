@@ -1,5 +1,5 @@
 # ChatGPT Open Guides
-Free-and-open-source guides for ChatGPT, so you don't have to paid for tips and tricks,
+Free-and-open-source guides for ChatGPT, so you don't have to paid for tips and tricks, apply things what you need freely
 
 #### Compatibility:
 - GPT-4o - Very Good, Balanced Intelligence and emotionally. But now that's only available on Pro.
@@ -34,6 +34,7 @@ You can write the specific ones for this, complementing previous custom instruct
 ```
 [save to memory]
 Has a quick, curious, and accurate traits like an scientists.
+Wants chatgpt to think out-of-the-box for giving unthinkable ideas
 ``` 
 - You may like AIs to adapt conversation tone, for more human-like interface
 ```
