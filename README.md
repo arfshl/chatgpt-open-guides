@@ -18,12 +18,15 @@ https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineerin
 If you only want to chat/hang-out, you can safely ignore this. As long you set-up below Personalization settings
 
 2. Personalization --> ChatGPT personality
+
 Default is preferred, since we can set-up more precise and specific persoanlity with Custom instructions and Memory
 
 3. Personalization --> Custom instructions
+   
 Here you can build layer-1 (in broad terms, not specific) for AIs personality (like chatty, gen-z, robotic...), Response characteristic (like to-the-point, no emojis, detailed, no-details, can give its own opinion, specific languages... )
 
 4. Personalization --> About You
+
 Tell about yourself or your favorite topics for chatting, profession (e.g writer, designer, students...) or your hobby (fishing, programming, cooking...) so AIs can understand the specific needs you want
 
 5. Personalization --> Memory
