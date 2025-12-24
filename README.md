@@ -2,7 +2,7 @@
 Free-and-open-source guides for ChatGPT, so you don't have to paid for tips and tricks, apply things what you need freely
 
 #### Compatibility:
-- GPT-5.1 Starts to rolling gradually, this version seems to have increased emotional intelligence
+- GPT-5.1+ Increased emotional intelligence and having friendly response. Available for free with limitations
 - GPT-4o - Very Good, Balanced Intelligence and emotionally. But now that's only available on Pro.
 - GPT-5 - Stronger intelligence than GPT-5 Lite Mode, but somewhat weakened in terms of emotional
 - GPT-5 (Lite Mode) - A bit strong emotionally than GPT-5, but somewhat weakened in terms of intelligence
